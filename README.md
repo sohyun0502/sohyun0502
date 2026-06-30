@@ -7,12 +7,8 @@
 <h2 align="center">김소현 (Sohyun Kim)</h2>
 
 <p align="center">
-  <a href="https://github.com/sohyun0502">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:sohyun050282@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7BA083?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Email-sohyun050282@gmail.com-7BA083?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phone-010--5792--9592-181717?style=for-the-badge&logo=apple&logoColor=white"/>
   <a href="https://sohyun0502.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-E8A5B0?style=for-the-badge&logo=Web&logoColor=white"/>
   </a>
