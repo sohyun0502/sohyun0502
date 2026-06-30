@@ -65,12 +65,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohyun0502&show_icons=true&bg_color=ffffff&title_color=7BA083&text_color=4a4a4a&icon_color=E8A5B0&border_color=e2e8f0" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohyun0502&layout=compact&bg_color=ffffff&title_color=7BA083&text_color=4a4a4a&border_color=e2e8f0" height="150"/>
-</p>
+| Project | Description | Tech Stack Highlights |
+| :--- | :--- | :--- |
+| 🌌 **[Polaris (별친구)](https://sohyun0502.github.io/project-polaris.html)** | 별친구와 함께하는 AI 루틴 서비스 | `Spring Boot` `MSA` `Saga Pattern` |
+| 🌿 **[Olive Life](https://sohyun0502.github.io/project-olivelife.html)** | 대규모 트래픽 대응 뷰티 커머스 플랫폼 | `Java` `Redis Cache` `Load Testing` |
+| 💰 **[7전8기의 암시장](https://sohyun0502.github.io/project-portone.html)** | PortOne 기반 결제 및 구독 서비스 | `PortOne API` `Pessimistic Lock` `Transaction` |
+| 🏢 **[E-Commerce Backoffice](https://sohyun0502.github.io/project-backoffice.html)** | 관리자용 주문 및 상품 관리 시스템 | `MySQL Index` `Admin Dashboard` `Performance Tuning` |
+
+<br>
+👉 [포트폴리오 웹사이트에서 프로젝트의 상세 트러블슈팅 과정을 확인해보세요!](https://sohyun0502.github.io/#projects-section)
 
 ---
 
