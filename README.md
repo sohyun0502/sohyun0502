@@ -1,76 +1,79 @@
-<!-- ===== Banner (Bright & Clean) ===== -->
+<!-- ===== Banner (Sage Green & Storybook Theme) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,100:a7f3d0&height=160&section=header&text=Backend%20Developer&fontSize=42&fontColor=0f172a&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7BA083,100:E8A5B0&height=160&section=header&text=Backend%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ===== Personal Info ===== -->
-<h2 align="center">김소현 | Backend Developer</h2>
+<h2 align="center">김소현 (Sohyun Kim)</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_ID">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white"/>
+  <a href="https://github.com/sohyun0502">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-38bdf8?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mailto:sohyun050282@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7BA083?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://sohyun0502.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-E8A5B0?style=for-the-badge&logo=Web&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <strong>확장성과 안정성을 고려한 서버 설계</strong>를 지향하는 백엔드 개발자
+  <strong>"화려함보다는, 흔들림 없는 견고함을 추구합니다."</strong><br>
+  돌아가는 코드 너머, 무너지지 않는 시스템을 설계하는 백엔드 개발자입니다.
 </p>
 
 ---
 
 ## 👋 About Me
 
-- Java & Spring Boot 기반 백엔드 개발
-- API / 비즈니스 로직 중심 서버 설계
-- 성능 최적화 및 대용량 트래픽 처리 경험
-- 코드 리뷰와 문서화를 통한 협업 문화 개선
+- 🏢 **GIS 솔루션 기업 (2년 5개월)**: 공공 시스템 구축 및 레거시(전자정부프레임워크) → 모던 아키텍처(Spring Boot) 마이그레이션 경험
+- 🛡️ **안정성 중심 설계**: 비관적 락을 활용한 결제 동시성 제어 및 MSA 환경에서의 트랜잭션 정합성(Saga 패턴) 제어
+- 🚀 **트래픽 및 성능 최적화**: Redis 캐싱 전략 및 k6를 활용한 부하 테스트와 병목 구간 개선
+- 🤝 **협업과 프로세스**: SVN에서 Git으로의 형상관리 전환 주도 및 RBAC 권한 체계 표준화
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
+### 💻 Backend & Server
 <p>
-  <img src="https://img.shields.io/badge/Java-60a5fa?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-4ade80?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QueryDSL-0078D4?style=flat-square&logo=spring&logoColor=white"/>
 </p>
 
-### Database
+### 🗄️ Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-38bdf8?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-818cf8?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
 </p>
 
-### DevOps / Infra
+### ☁️ Infrastructure & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Docker-7dd3fc?style=flat-square&logo=docker&logoColor=0f172a"/>
-  <img src="https://img.shields.io/badge/Kubernetes-a5b4fc?style=flat-square&logo=kubernetes&logoColor=0f172a"/>
-  <img src="https://img.shields.io/badge/Jenkins-fca5a5?style=flat-square&logo=jenkins&logoColor=0f172a"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 What I Focus On
-
-- 안정적이고 확장 가능한 서버 아키텍처
-- 병목 지점 분석 및 성능 개선
-- 마이크로서비스 기반 시스템 설계
-- 데이터 중심 문제 해결
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sohyun0502&show_icons=true&bg_color=ffffff&title_color=7BA083&text_color=4a4a4a&icon_color=E8A5B0&border_color=e2e8f0" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohyun0502&layout=compact&bg_color=ffffff&title_color=7BA083&text_color=4a4a4a&border_color=e2e8f0" height="150"/>
 </p>
 
 ---
 
 <p align="center">
-  <em>☀️ “밝지만 탄탄한 서버를 만듭니다.”</em>
+  <em>🌱 "코드의 완성은 배포가 아니라, 안정적인 운영에 있습니다."</em>
 </p>
